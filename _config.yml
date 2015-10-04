@@ -9,7 +9,7 @@ name: Varun Kumar
 description: Android Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: http://vignette3.wikia.nocookie.net/megajump/images/2/27/Android_Robot.png/revision/latest?cb=20110822221600
 
 #
 # Flags below are optional
@@ -21,13 +21,13 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: varunkr
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/pub/varun-kumar/64/39b/94b
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: gnrvarun
+  stackoverflow: users/3825975/varunkr
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
